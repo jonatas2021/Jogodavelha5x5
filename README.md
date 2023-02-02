@@ -1,8 +1,5 @@
 # Jogo da Velha 4x4
 
-## Funcionalidades
-
-
 ## Tecnologias
 - Javascript
 - HTML
