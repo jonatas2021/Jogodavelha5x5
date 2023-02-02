@@ -1,4 +1,4 @@
-# Jogodavelha5x5
+# Jogo da Velha 4x4
 
 ## Funcionalidades
 
